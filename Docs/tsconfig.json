@@ -5,9 +5,9 @@
     "baseUrl": "astroverse",
     "paths": {
       "@components/*": ["src/components/*"],
-      "@layouts/*": ["src/layouts/*"],
+      "@layouts/*": ["Docs/src/layouts/*"],
       "@utils/*": ["src/utils/*"],
-      "@consts": ["src/consts.ts"]
+      "@consts": ["Docs/src/consts.ts"]
     }
   }
 }
